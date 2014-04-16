@@ -1,4 +1,4 @@
-firstNode
+firstNodeExpressApp
 =========
 
-first node app
+first Node / Express app
